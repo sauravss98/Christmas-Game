@@ -1,0 +1,10 @@
+.crossword-container {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+  font-size: 16px;
+}
